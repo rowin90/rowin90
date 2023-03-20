@@ -26,13 +26,3 @@ Here are some ideas to get you started:
 ![rowin90's GitHub stats](https://github-readme-stats.vercel.app/api?username=rowin90&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowin90)](https://github.com/rowin90/github-readme-stats)
-
-#### Top Repositories
-
-
-<a href="https://github.com/rowin90/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rowin90&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/rowin90/rowin90.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rowin90&repo=rowin90.github.io&theme=buefy" />
-</a>
